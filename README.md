@@ -1,5 +1,5 @@
 # notebook
-## Mes recherches, notes, ...  *My personal notes, searches, ...*
+## Mes recherches, notes, ...
 
 
 ***
@@ -9,6 +9,5 @@ Ce repo compile mes notes personnelles *que je partage publiquement* dans le cad
 ***
 
   * N'hésitez pas d'ouvrir des Isssues ou des Pull requests
-  * Feel free to open issues and pull requests!
   
 Inspiré de _inpired by_ https://github.com/azer/notebook
